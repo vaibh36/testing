@@ -33,3 +33,9 @@ const cr4 = ()=>{
 }
 
 cr4();
+
+const cr5 = () =>{
+    console.log('This is cr5 now')
+}
+
+cr5();
