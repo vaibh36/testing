@@ -15,3 +15,9 @@ const cr1 = ()=>{
 }
 
 cr1()
+
+const cr2 = ()=>{
+    console.log('This is cr2 now');
+}
+
+cr2();
