@@ -21,3 +21,9 @@ const cr2 = ()=>{
 }
 
 cr2();
+
+const cr3 = () =>{
+    console.log('This is cr3 now');
+}
+
+cr3();
