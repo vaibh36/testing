@@ -9,3 +9,9 @@ const hotFixFunc = ()=>{
 }
 
 hotFixFunc();
+
+const cr1 = ()=>{
+    console.log('We are writing first cr1 function')
+}
+
+cr1()
