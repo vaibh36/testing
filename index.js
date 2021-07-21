@@ -3,3 +3,9 @@ const myName = ()=>{
 }
 
 myName();
+
+const hotFixFunc = ()=>{
+    console.log('hot fix function')
+}
+
+hotFixFunc();
